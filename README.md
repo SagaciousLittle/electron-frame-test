@@ -1,0 +1,1 @@
+can test use electron@26.1.0 and electron@26.6.1
